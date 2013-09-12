@@ -1,3 +1,7 @@
 My solution to the programming challenge at:
 
 http://www.socrata.com/career/software-engineer/
+
+Main functions are in rotate.py. Run unit tests with:
+
+python rotate_test.py
